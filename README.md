@@ -125,6 +125,6 @@ Bebas digunakan dan dimodifikasi untuk proyek pribadi maupun komersial.
 
 ## 👨‍💻 Pengembang
 
-Dikembangkan oleh **[Rachmad Kurniawan]** 🚀
+Dikembangkan oleh **Rachmad Kurniawan** 🚀
 
 ---
