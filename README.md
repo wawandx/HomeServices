@@ -127,6 +127,4 @@ Bebas digunakan dan dimodifikasi untuk proyek pribadi maupun komersial.
 
 Dikembangkan oleh **[Rachmad Kurniawan]** 🚀
 
-```
-
 ---
